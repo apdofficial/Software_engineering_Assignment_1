@@ -1,6 +1,7 @@
-# Andrej Pistek
-# 450966
-# Largest prime number from given number
+# Andrej Pistek                           #
+# 450966                                  #
+# Software Engineering                    #
+# Largest prime number from given number  #
 
 import math
 

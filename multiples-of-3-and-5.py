@@ -1,6 +1,7 @@
-# Andrej Pistek
-# 450966
-# Multiples of 3 and 5 up to 10000
+# Andrej Pistek                     #
+# 450966                            #
+# Software Engineering              #
+# Multiples of 3 and 5 up to 10000  #
 
 total_sum = 0
 for i in range(1, 1000):
